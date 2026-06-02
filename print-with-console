@@ -1,0 +1,6 @@
+## untuk print dan melihat hasil atau result kita bisa menggunakan console.log pada suatu variables 
+
+sederhananya menggunakan console.log () 
+
+connsole.log("isi variablenya") dari isi akan muncul hasil dari variablesnya 
+
