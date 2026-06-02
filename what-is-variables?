@@ -1,0 +1,8 @@
+variable di gunakan untuk memasukan data atau ingatan terkait suatu nilai/value yang di masukan ke dalam variables 
+
+variables memiliki beberapa jenis ;
+
+## var bergunsi untuk menyimpnan nilai yang nilai nya dapat berubah 
+## let kurang lebih memiliki fungsi yang sama dengan var, nilainya juga dapat berubah 
+## const ini berbeda dari kedua var dan let karena const adlaah cosntanta yang mana nilai tidak akan berubah hanya karena dia di panggil , memaksa hanya akan menyebabkan error 
+contoh variables 
